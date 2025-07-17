@@ -1,1 +1,2 @@
 # MNIST_COMPLTE_ANALYSIS
+Final Accuracy of 99.15
